@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Mathemetician
+Mathemetician<br>
 Working to Become a Physicist
 Football Coach
 Football Analyst
