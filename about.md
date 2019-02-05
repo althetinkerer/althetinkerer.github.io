@@ -5,11 +5,11 @@ permalink: /about/
 ---
 
 Mathemetician<br>
-Working to Become a Physicist
-Football Coach
-Football Analyst
-Using technology to Advance Sports
-Using technology to give Teams the Winning Edge
+Working to Become a Physicist<br>
+Football Coach<br>
+Football Analyst<br>
+Using technology to Advance Sports<br>
+Using technology to give Teams the Winning Edge<br>
 
 ### More Information
 
