@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Mathemetician<br>
+Mathemetician (Extremely passionate about math and sports)<br>
+Avid Reader<br>
+Avid Learner (I love learning new things and extending what I already know)<br>
 Linux Engineer<br>
 VoIP Engineer<br>
 Working to Become a Physicist<br>
