@@ -7,7 +7,8 @@ permalink: /about/
 Mathemetician<br>
 Working to Become a Physicist<br>
 Football Coach<br>
-Football Analyst<br>
+Football Data Analyst<br>
+Data Engineer<br>
 Using technology to Advance Sports<br>
 Using technology to give Teams the Winning Edge<br>
 
