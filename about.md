@@ -4,7 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Mathemetician (or Math Nerd)
+Mathemetician
+Working to Become a Physicist
+Football Coach
+Football Analyst
+Using technology to Advance Sports
+Using technology to give Teams the Winning Edge
 
 ### More Information
 
