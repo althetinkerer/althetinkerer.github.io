@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Finding Solutions In Life Is What I Live For!
+title: Finding Solutions Is What I Live For!
 ---
 
 This is sort of a living resume. It's constantly updated because I'm always learning, improving upon my skills, and working.
