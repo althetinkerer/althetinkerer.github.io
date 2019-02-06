@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 Mathemetician (Extremely passionate about math and sports)<br>
+Linux Administrator (20 years experience)<br>
 Avid Reader<br>
 Avid Learner (I love learning new things and extending what I already know)<br>
 Linux Engineer<br>
