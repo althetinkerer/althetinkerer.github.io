@@ -10,7 +10,7 @@ Avid Reader<br>
 Avid Learner (I love learning new things and extending what I already know)<br>
 Linux Engineer<br>
 VoIP Engineer<br>
-Working to Become a Physicist<br>
+Love Physics<br>
 Football Coach<br>
 Football Data Analyst<br>
 Data Engineer<br>
