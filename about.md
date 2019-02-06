@@ -20,6 +20,17 @@ Twilio Programmer<br>
 Using technology to Advance Sports<br>
 Using technology to give Teams the Winning Edge<br>
 
+### Technical Skills
+System Administrator (Linux/Windows/AWS/VPS)<br>
+Kotlin Programmer<br>
+Swift Programmer<br>
+AWS Developer<br>
+AWS Engineer<br>
+Machine Learning<br>
+SecOps<br>
+DevOps<br>
+Python Developer<br>
+Django/Flask<br>
 
 ### More Information
 
