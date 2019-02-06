@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+permalink: /career/
 ---
 
 Mathemetician (Extremely passionate about math)<br>
