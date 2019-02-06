@@ -22,6 +22,8 @@ Using technology to give Teams the Winning Edge<br>
 
 ### Technical Skills
 System Administrator (Linux/Windows/AWS/VPS)<br>
+Network Architect/Administrator<br>
+VoIP Architect/Developer/Administrator<br>
 Kotlin Programmer<br>
 Swift Programmer<br>
 AWS Developer<br>
