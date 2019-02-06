@@ -7,3 +7,5 @@ This is sort of a living resume. It's constantly updated because I'm always lear
 See in order to find better and efficient solutions you have to keep learning. Check out the about page above to see
 my 20+ years of experience and you can check my repo for the myriad of things I have been working on.
 
+-----------------------------------------------------------------
+<h3>Career</h3>
