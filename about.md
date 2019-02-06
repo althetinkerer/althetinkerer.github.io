@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Mathemetician (Extremely passionate about math and sports)<br>
+Mathemetician (Extremely passionate about math)<br>
+Football (Extremely passionate about football)<br>
 Linux Administrator (20 years experience)<br>
 Love Programming Languages<br>
 Avid Reader<br>
