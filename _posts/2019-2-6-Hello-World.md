@@ -9,3 +9,8 @@ my 20+ years of experience and you can check my repo for the myriad of things I 
 
 -----------------------------------------------------------------
 <h3>Career</h3>
+<br>
+<h4>Freelancer (Remote)</h4>
+<p>2016 - Present</p>
+<p>Working to provide technology solutions for companies. From the server to software development.<br>
+  
