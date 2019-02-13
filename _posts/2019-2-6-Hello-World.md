@@ -28,8 +28,8 @@ my 20+ years of experience and you can check my repo for the myriad of things I 
   <p>This was actually my first real world data analysis job. Through contract I worked with Mutual Energy, AT&T, Visa Smart Card,<br>
     FedEx, and Lucent Technologies. Although Excel didn't have the power it does today, it was a very powerful tool for<br>
     generating call center data. I also worked in software development using Visual Foxpro to build a forecasting tool<br>
-    on a team of software engineers. I had a background in telecom working with my father (40 years with AT&T) in the summers before<br>
-    graduating high school, so as the company grew I migrated toward telecom. I was asked to move over due to my analytical<br>
+    on a team of software engineers. I had a background in telecom working with my father (40 years with AT&T) in the summers<br>
+     before graduating high school, so as the company grew I migrated toward telecom. I was asked to move over due to my analytical<br>
     skills and join a team of hybrid software developers/voice engineers. PRC was beginning to migrate from the Lucent PBX phone<br>
     system to VoIP on some accounts. The many roles, technologies, and companies I worked with was a great starter for my career<br>
     To summarize here are my real-world work experiences:
