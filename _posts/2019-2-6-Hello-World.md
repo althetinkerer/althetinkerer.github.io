@@ -10,7 +10,7 @@ my 20+ years of experience and you can check my repo for the myriad of things I 
 -----------------------------------------------------------------
 <h3>Career</h3>
 <br>
-<h4>Block Chain Researcher</h4>
+<h4>Block Chain Researcher/Developer/Investor</h4>
 <p>2017 - Present</p>
 <p>Working to provide technology solutions for companies. From the server to software development.<br>
   Concentrating on the software development for the last three years fully learning multiple programming<br>
