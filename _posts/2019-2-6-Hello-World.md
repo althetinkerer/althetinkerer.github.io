@@ -22,7 +22,7 @@ my 20+ years of experience and you can check my repo for the myriad of things I 
   <br>
   <br>
   <br>
-  <h4>Machine Learning/Computer Vision Researcher</h4>
+  <h4>Data Analysis/Machine Learning/Computer Vision Researcher for Youth Sports</h4>
   <p>Palmetto Bay Broncos</p>
   <p>March 2016 - November 2016</p>  
   
