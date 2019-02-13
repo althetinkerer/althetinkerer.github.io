@@ -22,6 +22,14 @@ my 20+ years of experience and you can check my repo for the myriad of things I 
   <br>
   <br>
   <br>
+  <h4>Machine Learning/Computer Vision Researcher</h4>
+  <p>Palmetto Bay Broncos</p>
+  <p>March 2016 - November 2016</p>  
+  
+  
+  <br>
+  <br>
+  <br>
   <h4>Director of IT Operations</h4>
   <p>Immunity, Inc</p>
   <p>2009 - 2016</p>  
@@ -81,7 +89,7 @@ my 20+ years of experience and you can check my repo for the myriad of things I 
     <li>Visual C++ (Visual Studio 6.0) Programming for Windows System Programming (development of in-house applications)</li>
     <li>Windows 2000 Server Administration
   </ul>
-    
+-------------------------------------------------------------------------    
     
 # Education
 (I will always do a refresher on technologies I haven't used, to make sure the skills don't degrade)
