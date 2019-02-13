@@ -47,6 +47,7 @@ my 20+ years of experience and you can check my repo for the myriad of things I 
     <li>Windows Administration and Windows system programming for Visa Smart Card</li>
     <li>Bash Scripting for Windows</li>
     <li>Visual C++ (Visual Studio 6.0) Programming for Windows System Programming (development of in-house applications)</li>
+    <li>Windows 2000 Server Administration
   </ul>
     
     
