@@ -60,4 +60,5 @@ my 20+ years of experience and you can check my repo for the myriad of things I 
   <ul>
     <li>Essential Math for Machine Learning: R Edition (Microsoft -  DAT280x)</li>
     <li>Intro to Fintech</li>
+    <li>Essential Statistics for Data Analysis using Excel (Microsoft -  DAT222x)</li>
   </ul>
