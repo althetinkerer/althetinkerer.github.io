@@ -23,7 +23,15 @@ my 20+ years of experience and you can check my repo for the myriad of things I 
   <br>
   <br>
   <h4>Telecom(VoIP), Security, & Network Engineer/Software Developer</h4>
-  <p>Precision Response Corporation</p>
+  <p>Smart City Networks</p>
+  <p>2003 - 2007</p>  
+  
+  
+  <br>
+  <br>
+  <br>
+  <h4>Telecom(VoIP), Security, & Network Engineer/Software Developer</h4>
+  <p>Priority Networks</p>
   <p>2003 - 2007</p>  
   
   
