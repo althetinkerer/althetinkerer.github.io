@@ -41,7 +41,7 @@ my 20+ years of experience and you can check my repo for the myriad of things I 
     <li>Scripting with Perl to monitor agents on calls</li>
     <li>Network Administrator with Cisco equipment</li>
     <li>Lucent Voice Administrator</li>
-    <li>VoIP researcher/engineer (this was the very early phase of VoIP)</li>
+    <li>VoIP researcher/engineer (this was the very early phase of integrating VoIP)</li>
     <li>Software development on the AT&T RCAM system</li>
     <li>Software development on pager (yes! I did say pager) platform to notify managers and executives</li>
     <li>Windows Administration and Windows system programming for Visa Smart Card</li>
