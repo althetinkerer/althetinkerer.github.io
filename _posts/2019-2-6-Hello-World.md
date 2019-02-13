@@ -22,6 +22,22 @@ my 20+ years of experience and you can check my repo for the myriad of things I 
   <br>
   <br>
   <br>
+  <h4>Director of IT Operations</h4>
+  <p>Immunity, Inc</p>
+  <p>2009 - 2016</p>  
+  
+  
+  <br>
+  <br>
+  <br>
+  <h4>Director of Engineering</h4>
+  <p>Digiport Miami, LLC</p>
+  <p>2007 - 2009</p>  
+  
+  
+  <br>
+  <br>
+  <br>
   <h4>Telecom(VoIP), Security, & Network Engineer/Software Developer</h4>
   <p>Smart City Networks</p>
   <p>2005 - 2007</p>  
