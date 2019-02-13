@@ -56,3 +56,7 @@ my 20+ years of experience and you can check my repo for the myriad of things I 
   <ul>
     <li>Introduction to Data Analysis For Government</li>
   </ul>
+<h4>EdX
+  <ul>
+    <li>Essential Math for Machine Learning: R Edition (Microsoft -  DAT280x)</li>
+  </ul>
