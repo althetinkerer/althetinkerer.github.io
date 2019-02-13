@@ -30,6 +30,14 @@ my 20+ years of experience and you can check my repo for the myriad of things I 
   <br>
   <br>
   <br>
+  <h4>Data Analysis/Machine Learning/Computer Vision Researcher for Youth Sports(Flag Football)</h4>
+  <p>YMCA</p>
+  <p>April 2015 - May 2015</p>  
+  
+  
+  <br>
+  <br>
+  <br>
   <h4>Director of IT Operations</h4>
   <p>Immunity, Inc</p>
   <p>2009 - 2016</p>  
