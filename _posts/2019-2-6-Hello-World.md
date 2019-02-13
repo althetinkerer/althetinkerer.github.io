@@ -22,9 +22,17 @@ my 20+ years of experience and you can check my repo for the myriad of things I 
   <br>
   <br>
   <br>
-  <h4>Technical Support</h4>
+  <h4>Telecom(VoIP), Security, & Network Engineer/Software Developer</h4>
   <p>Precision Response Corporation</p>
-  <p>1998 - 2004</p>
+  <p>2003 - 2007</p>  
+  
+  
+  <br>
+  <br>
+  <br>
+  <h4>Data Analyst/Telecom & Network Engineer/Software Developer</h4>
+  <p>Precision Response Corporation</p>
+  <p>1998 - 2003</p>
   <p>This was actually my first real world data analysis job. Through contract I worked with Mutual Energy, AT&T, Visa Smart Card,<br>
     FedEx, and Lucent Technologies. Although Excel didn't have the power it does today, it was a very powerful tool for<br>
     generating call center data. I also worked in software development using Visual Foxpro to build a forecasting tool<br>
@@ -52,7 +60,7 @@ my 20+ years of experience and you can check my repo for the myriad of things I 
     
     
 # Education
-
+(I will always do a refresher on technologies I haven't used, to make sure the skills don't degrade)
 <h4>UDemy.com
   <ul>
     <li>Introduction to Data Analysis For Government</li>
