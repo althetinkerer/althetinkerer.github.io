@@ -24,15 +24,15 @@ my 20+ years of experience and you can check my repo for the myriad of things I 
   <br>
   <h4>Telecom(VoIP), Security, & Network Engineer/Software Developer</h4>
   <p>Smart City Networks</p>
-  <p>2003 - 2007</p>  
+  <p>2005 - 2007</p>  
   
   
   <br>
   <br>
   <br>
-  <h4>Telecom(VoIP), Security, & Network Engineer/Software Developer</h4>
+  <h4>Telecom(VoIP), Security, Linux, & Network Engineer/Software Developer</h4>
   <p>Priority Networks</p>
-  <p>2003 - 2007</p>  
+  <p>2003 - 2005</p>  
   
   
   <br>
