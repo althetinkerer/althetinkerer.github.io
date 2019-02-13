@@ -83,7 +83,7 @@ my 20+ years of experience and you can check my repo for the myriad of things I 
     To summarize here are my real-world work experiences:
   <ul>
     <li>Data Analysis with Excel</li>
-    <li>VBA programming for Microsoft Office Products</li>
+    <li>VBA programming for Microsoft Office Products(Mostly Excel)</li>
     <li>SQL database w/Access management for Data Analysis</li>
     <li>Crystal Reports Programmer</li>
     <li>Scripting with Perl to monitor agents on calls</li>
