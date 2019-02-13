@@ -32,7 +32,7 @@ my 20+ years of experience and you can check my repo for the myriad of things I 
     graduating high school, so as the company grew I migrated toward telecom. I was asked to move over due to my analytical<br>
     skills and join a team of hybrid software developers/voice engineers. PRC was beginning to migrate from the Lucent PBX phone<br>
     system to VoIP on some accounts. The many roles, technologies, and companies I worked with was a great starter for my career<br>
-    To summarize here are my real-life work experiences so far:
+    To summarize here are my real-world work experiences:
   <ul>
     <li>Data Analysis with Excel</li>
     <li>VBA programming for Microsoft Office Products</li>
@@ -42,7 +42,7 @@ my 20+ years of experience and you can check my repo for the myriad of things I 
     <li>Network Administrator with Cisco equipment</li>
     <li>Lucent Voice Administrator</li>
     <li>VoIP researcher/engineer (this was the very early phase of VoIP)</li>
-    <li>Software development on the AT&T RCAM system<li>
+    <li>Software development on the AT&T RCAM system</li>
     <li>Software development on pager (yes! I did say pager) platform to notify managers and executives</li>
     <li>Windows Administration and Windows system programming for Visa Smart Card</li>
     <li>Bash Scripting for Windows</li>
