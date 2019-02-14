@@ -61,7 +61,7 @@ Getting reliable instrumentation is THE most critical thing a 1st data person do
   <li>Automating common network tasks(Python)</li>
   <li>Data Analysis on logs and accounting data(Python and Excel)</li>
   <li>Building and Deploying storage cloud service</li>
-  <li>
+  </ul>
   <br>
   <br>
   <br>
