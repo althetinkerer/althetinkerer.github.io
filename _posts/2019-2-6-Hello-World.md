@@ -64,14 +64,15 @@ Getting reliable instrumentation is THE most critical thing a 1st data person do
   Developing and deploying new telecom technologies for convention centers and hotels around the country. Working with vendors (Cisco, HP, Linux, BlueSocket, Ubiquiti, WatchGuard, Infoblox, Juniper, RAD Data Communications, Extreme Networks, Brocade) to route networks, and deliver to the customer in the datacenter. Delivering high speed connection (up to 10 GB) per customer. Managing and supporting executive and customers telecom networks to deliver a great technology experience.
   
   <ul>
-  <li>Routing networks using BGP from our class of networks</li>
-  <li>Support for Layer 2,3 for onsite field engineers</li>
-  <li>Onsite support for large events (VoIP/Networking)</li> 
-  <li>Troubleshoot and add new modules for Tracking system (.NET)</li>
-  <li>Support and Onboard acqusition network/software engineering staff</li>
-  <li>Research/Training engineering staff for new product releases</li>
-  <li>Monitoring/Security of networks and servers</li>
-  <li>Managing data from logs for analysis of "potential" problems</li>
+    <li>Routing networks using BGP from our class of networks</li>
+    <li>Support for Layer 2,3 for onsite field engineers</li>
+    <li>Onsite support for large events (VoIP/Networking)</li> 
+    <li>Troubleshoot and add new modules for Tracking system (.NET)</li>
+    <li>Support and Onboard acqusition network/software engineering staff</li>
+    <li>Research/Training engineering staff for new product releases</li>
+    <li>Monitoring/Security of networks and servers</li>
+    <li>Managing data from logs for analysis of "potential" problems</li>
+  </ul>
   <br>
   <br>
   <br>
