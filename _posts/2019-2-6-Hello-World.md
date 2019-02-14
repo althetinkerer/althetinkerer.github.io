@@ -16,10 +16,7 @@ I have an insatiable love for football and technology. So much so it fuels me to
 <br>
 <h4>Block Chain Researcher/Developer/Investor</h4>
 <p>2017 - Present</p>
-<p>Working to provide technology solutions for companies. From the server to software development.<br>
-  Concentrating on the software development for the last three years fully learning multiple programming<br>
-  languages. I see finding solutions for companies may include writing software on different platforms. Having<br>
-  a general overview of different programming languages, makes me efficient in finding solutions for companies.<br>
+<p>Working to provide technology solutions for companies. From the server to software development.  Concentrating on the software development for the last three years fully learning multiple programming languages. I see finding solutions for companies may include writing software on different platforms. Having a general overview of different programming languages, makes me efficient in finding solutions for companies.
   My early career included learning many different skills while finding a solution. (working on networks, servers, and <br>
   software). Check out the about <a href="https://althetinkerer.github.io/about/">click here</a> for a list of my technical<br>
   skills. Also, check out my repos for previous and current work.
@@ -44,8 +41,6 @@ I have an insatiable love for football and technology. So much so it fuels me to
   <h4>Data Analysis/Machine Learning/Computer Vision Researcher for Youth Sports(Flag Football)</h4>
   <p>YMCA</p>
   <p>April 2015 - May 2015</p>  
-  
-  
   <br>
   <br>
   <br>
