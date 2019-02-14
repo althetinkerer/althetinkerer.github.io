@@ -3,7 +3,7 @@ layout: post
 title: Finding Solutions Using Data!
 ---
 
-Welcome this is my living resume. It's constantly updated because I'm always learning, researching, improving upon my skills, and gaining work experience. See in order to find better and efficient solutions you have to keep learning and gaining experience. Check out the about page above to see my 20+ years of experience and you can check my repo for the myriad of things I have been working on.
+Welcome to my living resume. It's constantly updated because I'm always learning, researching, improving upon my skills, and gaining work experience. See in order to find better and efficient solutions you have to keep learning and gaining experience. Check out the about page above to see my 20+ years of experience and you can check my repo for the myriad of things I have been working on. Although I am migrating more to software dev, "all" of my skills have to be constan
 
 Effective Data Management<br>
 Getting reliable instrumentation is THE most critical thing a 1st data person does. It is an endless journey, from picking frameworks (multiple) to collect system and user data, making sure engineers learn how to implement things without counting errors (which are so easy to make), making sure the databases and logs are doing the Right Thing, and making sure you’re counting what you think you’re counting.
@@ -45,7 +45,7 @@ Getting reliable instrumentation is THE most critical thing a 1st data person do
   <h4>Director of IT Operations</h4>
   <p>Immunity, Inc</p>
   <p>2009 - 2016</p>  
-  
+  This is another one of the "best" jobs on my list. I learned to excel at security in this role. This was a Linux shop with some Mac machines floating around. This another smaller shop that specializes in "Offensive Security". So, there was plenty of opportunities to work on offensive security, while my department was the "defensive" part of the company. Most companies concentrate what they specialize in and because we were dealing with security. We only had a small list of trusted vendors, so basically everything had to be done in-house. This means you have to have someone who can perform those "in-house" IT duties. One of the perks of working with an offensive security company is you get to demo things against your network. I also demo's software for our customers. I was able to be opened up to some exploit work, malware analysis, social engineering, windows exploitation, and wireless exploitation. This allowed me to get a better grasp providing security to hardware, networks(mobile, phone, routing), programming techniques(scripting, application and web), and applications. The skills here not only allowed me to improve my "defensive", it also gave me a set of "offensive" skills I use today. 
   
   <br>
   <br>
@@ -54,7 +54,14 @@ Getting reliable instrumentation is THE most critical thing a 1st data person do
   <p>Digiport Miami, LLC</p>
   <p>2007 - 2009</p>  
   After working in many datacenters and telcos around the companies with the previous two employers, I worked with a small data center in the center of three huge datacenters in downtown Miami. In this role of director, I reported directly to the owner of the company. We managed hundreds of customers on Level 3 and Cogent. Some of our biggest vendors were FPL Fibernet, IPTV, NAP of the Americas, Brands Institute, and AT&T, for some of the first Metro Ethernet rollouts to commercial business in Miami (one of the first resellers). We also helped FPL Fibernet on their rollout of their fiber services to buildings in downtown Miami. Digiport is where I wrote some of my first web apps in Django. My usual protocol of managing networking(BGP, iBGP and OSPF), cloud storage, and VoIP. The owner was very data driven, and so this was a perfect fit for all of my skills (programming and networking). I worked with a lot of services and companies that were "early adopters of different technologies". These were great experiences because I was working with emerging technologies and supporting some really interesting companies. When they could not figure something out, they would bring me on to help engineer a solution. 
-  
+  <ul>
+  <li>Maintaining uptime of DataCenter between Level 3 and Cogent (least cost path, but optimized performance)</li>
+  <li>Maintaining high performing network for customers</li>
+  <li>Collecting and analyzing logs from networking equipment</li>
+  <li>Automating common network tasks(Python)</li>
+  <li>Data Analysis on logs and accounting data(Python and Excel)</li>
+  <li>Building and Deploying storage cloud service</li>
+  <li>
   <br>
   <br>
   <br>
