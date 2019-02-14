@@ -66,7 +66,8 @@ Getting reliable instrumentation is THE most critical thing a 1st data person do
   <li>Deploy Metro Ethernet onsite back to our network</li>
   <li>Configuring OSPF for Metro Ethernet Network</li>
   <li>Deploying and configuring VoIP for our customers (our in-house customized service)</li>
-  
+  <li>Maintenance Checks for Generater and UPS during hurricane season and power grid outages</li>
+  <li>Supporting 
   </ul>
   <br>
   <br>
