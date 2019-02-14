@@ -26,11 +26,11 @@ Getting reliable instrumentation is THE most critical thing a 1st data person do
   <h4>Data Analysis/Machine Learning/Computer Vision Researcher for Youth Sports(Tackle Football)</h4>
   <p>Palmetto Bay Broncos</p>
   <p>March 2016 - November 2016</p>  
-  <p>Formed the hypothesis "If we take a team where a majority of kids have never played can we win?"<br>
-  The first you have to do with any organization is take a look at the numbers in the industry. What makes<br>
-  you successful, where are you weak, where are you strong. Taking that data on each player and assigning a<br>
-  position based on physical and mental attributes. 
-  
+  <p>Formed the hypothesis "If we take a team where a majority of kids have never played can we win?" The first you have to do with any organization is take a look at the numbers in the industry. What makes you successful, where are you weak, where are you strong. Taking that data on each player and assigning a position based on physical and mental attributes. 
+  <ol>
+    <li>Created heat maps in using python and images</li>
+    <li>Using OpenCV and machine learning to recognize and detect formations using tensorflow</li>
+    
   <br>
   <br>
   <br>
