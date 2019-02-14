@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Finding Solutions Is What I Live For!
+title: Finding Solutions Using Data!
 ---
 
 Welcome this is my living resume. It's constantly updated because I'm always learning, researching, improving upon my skills, and gaining work experience. See in order to find better and efficient solutions you have to keep learning and gaining experience. Check out the about page above to see my 20+ years of experience and you can check my repo for the myriad of things I have been working on.
