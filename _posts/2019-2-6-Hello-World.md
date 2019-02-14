@@ -8,6 +8,9 @@ Welcome to my living resume. It's constantly updated because I'm always learning
 Effective Data Management<br>
 Getting reliable instrumentation is THE most critical thing a 1st data person does. It is an endless journey, from picking frameworks (multiple) to collect system and user data, making sure engineers learn how to implement things without counting errors (which are so easy to make), making sure the databases and logs are doing the Right Thing, and making sure you’re counting what you think you’re counting.
 
+My Love for football & technology<br>
+I have an insatiable love for football and technology. So much so it fuels me to develop better coaching process to drive teams toward success. 
+
 -----------------------------------------------------------------
 <h3>Career</h3>
 <br>
@@ -26,11 +29,15 @@ Getting reliable instrumentation is THE most critical thing a 1st data person do
   <h4>Data Analysis/Machine Learning/Computer Vision Researcher for Youth Sports(Tackle Football)</h4>
   <p>Palmetto Bay Broncos</p>
   <p>March 2016 - November 2016</p>  
-  <p>Formed the hypothesis "If we take a team where a majority of kids have never played can we win?" The first you have to do with any organization is take a look at the numbers in the industry. What makes you successful, where are you weak, where are you strong. Taking that data on each player and assigning a position based on physical and mental attributes. 
+  <p>Formed the hypothesis "If we take a team where a majority of kids have never played can we win?" The first you have to do with any organization is take a look at the numbers in the industry. What makes you successful, where are you weak, where are you strong. Taking that data on each player and assigning a position based on physical and mental attributes. I know it seems a bit much to put so much work in to 
   <ol>
     <li>Created heat maps in using python and images</li>
     <li>Using OpenCV and machine learning to recognize and detect formations using tensorflow</li>
-    
+    <li>Animating our games with R, Python, Matplotlib and Pandas</li>
+    <li>Reviewing a game using OpenCV to follow a specific player hotspoting zones on the field</li>
+    <li>Extracting film data from Kinovea</li>
+    <li>Creating stats on our team and opponent team in excel to create favorable matchups</li>
+  <ol>  
   <br>
   <br>
   <br>
