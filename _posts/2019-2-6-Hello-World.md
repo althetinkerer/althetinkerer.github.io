@@ -57,10 +57,16 @@ Getting reliable instrumentation is THE most critical thing a 1st data person do
   <ul>
   <li>Maintaining uptime of DataCenter between Level 3 and Cogent (least cost path, but optimized performance)</li>
   <li>Maintaining high performing network for customers</li>
+  <li>Providing on-demand support for data center customers (Level II & III support)</li>
   <li>Collecting and analyzing logs from networking equipment</li>
   <li>Automating common network tasks(Python)</li>
   <li>Data Analysis on logs and accounting data(Python and Excel)</li>
-  <li>Building and Deploying storage cloud service</li>
+  <li>Building and Deploying one of the first storage cloud service</li>
+  <li>Support Metro Ethernet sales department</li>
+  <li>Deploy Metro Ethernet onsite back to our network</li>
+  <li>Configuring OSPF for Metro Ethernet Network</li>
+  <li>Deploying and configuring VoIP for our customers (our in-house customized service)</li>
+  
   </ul>
   <br>
   <br>
