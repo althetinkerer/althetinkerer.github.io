@@ -5,7 +5,7 @@ title: Finding Solutions Is What I Live For!
 
 Welcome this is my living resume. It's constantly updated because I'm always learning, researching, improving upon my skills, and gaining work experience. See in order to find better and efficient solutions you have to keep learning and gaining experience. Check out the about page above to see my 20+ years of experience and you can check my repo for the myriad of things I have been working on.
 
-Data Management Expert<br>
+Effective Data Management<br>
 Getting reliable instrumentation is THE most critical thing a 1st data person does. It is an endless journey, from picking frameworks (multiple) to collect system and user data, making sure engineers learn how to implement things without counting errors (which are so easy to make), making sure the databases and logs are doing the Right Thing, and making sure you’re counting what you think you’re counting.
 
 -----------------------------------------------------------------
