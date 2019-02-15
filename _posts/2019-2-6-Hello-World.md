@@ -63,13 +63,13 @@ I have an insatiable love for football and technology. So much so it fuels me to
   <li>Collecting and analyzing logs from networking equipment</li>
   <li>Automating common network tasks(Python)</li>
   <li>Data Analysis on logs and accounting data(Python and Excel)</li>
-  <li>Building and Deploying one of the first storage cloud service</li>
-  <li>Support Metro Ethernet sales department</li>
-  <li>Deploy Metro Ethernet onsite back to our network</li>
-  <li>Configuring OSPF for Metro Ethernet Network</li>
-  <li>Deploying and configuring VoIP for our customers (our in-house customized service)</li>
-  <li>Maintenance Checks for Generater and UPS during hurricane season and power grid outages</li>
-  <li>Supporting 
+    <li>Building and Deploying one of the first storage cloud service</li>
+    <li>Support Metro Ethernet sales department</li>
+    <li>Deploy Metro Ethernet onsite back to our network</li>
+    <li>Configuring OSPF for Metro Ethernet Network</li>
+    <li>Deploying and configuring VoIP for our customers (our in-house customized service)</li>
+    <li>Maintenance Checks for Generater and UPS during hurricane season and power grid outages</li>
+    <li>Supporting 
   </ul>
   <br>
   <br>
@@ -78,7 +78,6 @@ I have an insatiable love for football and technology. So much so it fuels me to
   <p>Smart City Networks</p>
   <p>2005 - 2007</p>  
   Developing and deploying new telecom technologies for convention centers and hotels around the country. Working with vendors (Cisco, HP, Linux, BlueSocket, Ubiquiti, WatchGuard, Infoblox, Juniper, RAD Data Communications, Extreme Networks, Brocade) to route networks, and deliver to the customer in the datacenter. Delivering high speed connection (up to 10 GB) per customer. Managing and supporting executive and customers telecom networks to deliver a great technology experience.
-  
   <ul>
     <li>Routing networks using BGP from our class of networks</li>
     <li>Support for Layer 2,3 for onsite field engineers</li>
