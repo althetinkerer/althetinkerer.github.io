@@ -14,9 +14,16 @@ I have an insatiable love for football and technology. So much so it fuels me to
 -----------------------------------------------------------------
 <h3>Career</h3>
 <br>
-<h4>Block Chain Researcher/Developer/Investor</h4>
-<p>2017 - Present</p>
-<p>Working to provide technology solutions for companies. From the server to software development.  Concentrating on the software development for the last three years fully learning multiple programming languages. I see finding solutions for companies may include writing software on different platforms. Having a general overview of different programming languages, makes me efficient in finding solutions for companies. My early career included learning many different skills while finding a solution. (working on networks, servers, and software). Check out the about <a href="https://althetinkerer.github.io/about/">click here</a> for a list of my technical skills. Also, check out my repos for previous and current work.
+<h4>Data Mining/Block Chain Researcher/Developer</h4>
+<p>2018 - Present</p>
+<p>Working to provide blockchain solutions for companies. From the server to software development.  Concentrating on the software development for the last three years fully learning multiple programming languages. I see finding solutions for companies may include writing software on different platforms. Having a general overview of different programming languages, makes me efficient in finding solutions for companies. My early career included learning many different skills while finding a solution. (working on networks, servers, and software). Check out the about <a href="https://althetinkerer.github.io/about/">click here</a> for a list of my technical skills. Also, check out my repos for previous and current work.
+<ul>
+  <li>Continued research on a new and emerging technology</li>
+  <li>Developing a blockchain (proof of concept) platform for a supply chain and logistics</li>
+  <li>Scraping and crawling websites to compare pricing from competitors(Amazon, Ebay, competitors websites)(Python)</li>
+  <li>Harvesting data from competitors websites through API</li>
+  
+</ul>
 <br>
 <br>
 <br>
@@ -46,11 +53,12 @@ I have an insatiable love for football and technology. So much so it fuels me to
 <p>2009 - 2016</p>  
 This is another one of the "best" jobs on my list. I learned to excel at security in this role. This was a Linux shop with some Mac machines floating around. This another smaller shop that specializes in "Offensive Security". So, there was plenty of opportunities to work on offensive security, while my department was the "defensive" part of the company. Most companies concentrate what they specialize in and because we were dealing with security. We only had a small list of trusted vendors, so basically everything had to be done in-house. This means you have to have someone who can perform those "in-house" IT duties. One of the perks of working with an offensive security company is you get to demo things against your network. I also demo's software for our customers. I was able to be opened up to some exploit work, malware analysis, social engineering, windows exploitation, and wireless exploitation. This allowed me to get a better grasp providing security to hardware, networks(mobile, phone, routing), programming techniques(scripting, application and web), and applications. The skills here not only allowed me to improve my "defensive", it also gave me a set of "offensive" skills I use today. 
 <ul>
+  <li>Manage Datacenter network
   <li>Manage multiple in-house github repos for different github projects</li>
   <li>Maintain all users on linux environment</li>
   <li>Maintain servers requiring different levels of access (Government/Non-Government)</li>
   <li>Malware analysis using open source and in-house tools(cuckoo)</li>
-  
+
 <br>
 <br>
 <br>
