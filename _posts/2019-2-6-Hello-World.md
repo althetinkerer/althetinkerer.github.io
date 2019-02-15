@@ -66,6 +66,7 @@ This is another one of the "best" jobs on my list. I learned to excel at securit
   <li>Research and test Linux Internals for maximum security</li>
   <li>Research linux protection (SELinux, GRSecurity)</li>
   <li>Developing and Deploying company website</li>
+  <li>Migrated company from SVN to github for versioning</li>
 <ul>
 <br>
 <br>
@@ -144,7 +145,7 @@ A small, but very resourceful ISP provider that provided "quality" over quantity
 <p>Precision Response Corporation</p>
 <p>1998 - 2003</p>
 <p>This was actually my first real world data analysis job. Through contract I worked with Mutual Energy, AT&T, Visa Smart Card, FedEx, and Lucent Technologies. Although Excel didn't have the power it does today, it was a very powerful tool for generating call center data. I also worked in software development using Visual Foxpro to build a forecasting tool on a team of software engineers. I had a background in telecom working with my father (40 years with AT&T) in the summers before graduating high school, so as the company grew I migrated toward telecom. I was asked to move over due to my analytical skills and join a team of hybrid software developers/voice engineers. PRC was beginning to migrate from the Lucent PBX phone system to VoIP on some accounts. The many roles, technologies, and companies I worked with was a great starter for my career.<br>
-To summarize here are my real-world work experiences:
+To summarize here are my real-world work experiences:<br>
 <ul>
   <li>Data Analysis with Excel</li>
   <li>VBA programming for Microsoft Office Products(Mostly Excel)</li>
@@ -159,7 +160,7 @@ To summarize here are my real-world work experiences:
   <li>Windows Administration and Windows system programming for Visa Smart Card</li>
   <li>Bash Scripting for Windows</li>
   <li>Visual C++ (Visual Studio 6.0) Programming for Windows System Programming (development of in-house applications)</li>
-  <li>Windows 2000 Server Administration
+  <li>Windows 2000 Server Administration</li>
 </ul>
 -------------------------------------------------------------------------    
     
@@ -175,3 +176,7 @@ To summarize here are my real-world work experiences:
     <li>Intro to Fintech</li>
     <li>Essential Statistics for Data Analysis using Excel (Microsoft -  DAT222x)</li>
   </ul>
+<h4>Miami Dade College</h4>
+<ul>
+  <li>Mathematics (1998)</li>
+<ul>
