@@ -22,7 +22,9 @@ I have an insatiable love for football and technology. So much so it fuels me to
   <li>Developing a blockchain (proof of concept) platform for a supply chain and logistics</li>
   <li>Scraping and crawling websites to compare pricing from competitors(Amazon, Ebay, competitors websites)(Python)</li>
   <li>Harvesting data from competitors websites through API</li>
-  
+  <li>IBM Watson API price comparison for ecommerce</li>
+  <li>Ebay API to compare the best results and win the customer</li>
+  <li>Multiple machine scraping on Amazon for optimal results for sales department</li>
 </ul>
 <br>
 <br>
@@ -42,12 +44,6 @@ I have an insatiable love for football and technology. So much so it fuels me to
 <br>
 <br>
 <br>
-<h4>Data Analysis/Machine Learning/Computer Vision Researcher for Youth Sports(Flag Football)</h4>
-<p>YMCA</p>
-<p>April 2015 - May 2015</p>  
-<br>
-<br>
-<br>
 <h4>Director of IT Operations</h4>
 <p>Immunity, Inc</p>
 <p>2009 - 2016</p>  
@@ -58,7 +54,19 @@ This is another one of the "best" jobs on my list. I learned to excel at securit
   <li>Maintain all users on linux environment</li>
   <li>Maintain servers requiring different levels of access (Government/Non-Government)</li>
   <li>Malware analysis using open source and in-house tools(cuckoo)</li>
-
+  <li>Support and QA testing for Researchers/Exploit Writers</li>
+  <li>Architect, Design, and Deploy Training online training platform(scaling was important)</li>
+  <li>Designing/Securing networks(voip) using VPN technology across multiple countries</li>
+  <li>Building secure phone network</li>
+  <li>QA testing for Main products</li>
+  <li>Automating logging/processing of log data</li>
+  <li>Building hardware devices to bypass networks for exploit gigs</li>
+  <li>Detailed vulnerability report writing</li>
+  <li>Testing and research encryption for vulnerabilities</li>
+  <li>Research and test Linux Internals for maximum security</li>
+  <li>Research linux protection (SELinux, GRSecurity)</li>
+  <li>Developing and Deploying company website</li>
+<ul>
 <br>
 <br>
 <br>
@@ -79,7 +87,8 @@ After working in many datacenters and telcos around the companies with the previ
   <li>Configuring OSPF for Metro Ethernet Network</li>
   <li>Deploying and configuring VoIP for our customers (our in-house customized service)</li>
   <li>Maintenance Checks for Generater and UPS during hurricane season and power grid outages</li>
-  <li>Supporting 
+  <li>Supporting customer on monitoring platform</li>
+  <li>Designing & Architecting networks for customers</li>
 </ul>
 <br>
 <br>
@@ -103,13 +112,31 @@ Developing and deploying new telecom technologies for convention centers and hot
 <br>
 <h4>Network Engineer</h4>
 <p>InterOP</p>
-<p>2003</p> 
+<p>2003</p>
+I wanted to volunteer and work with and gain experience from the best network engineers in the industry. Based on my co-workers advice, this was the best event to work as a network engineer. They'd all worked it on their path to becoming great network engineers. This experience really catapulted me to working even harder on learning my craft. I didn't volunteer again, but it gave me some great training,resources, and tips to help me in my career.
 <br>
 <br>
 <h4>Telecom(VoIP), Security, Linux, & Network Engineer/Software Developer</h4>
-<p>Priority Networks</p>
+<p>Priority Networks(Internet Service Provider)</p>
 <p>2003 - 2005</p>  
 A small, but very resourceful ISP provider that provided "quality" over quantity to provide the best customer experience in the nation. I originally applied to this job looking for a job that worked with bleeding edge technology. I actually received a better personal growth experience from my time here. I had to establish a very good "base" here learning the "how it works", because at some point we would eventually have to troubleshoot "where the packet left and where did it go". The Vice President of Engineering was adament about details and continuous learning which is what I still harp on today. I call this the McGyver job, because at times we had to think "out of the box" to make things works from programming to networking. We worked with regular companies all the way to providing service for the <a href="http://www.oas.org/en/">Organization of the American States</a> to Wheel of Fortune. This is actually one of the greatest jobs on my list.
+<ul>
+  <li>First learned about routing networks using BGP</li>
+  <li>Setup my first OSPF network</li>
+  <li>Designed and Deployed Power Over Ethernet network over cable</li>
+  <li>Developed and deployed my first VoIp network (100 users)</li>
+  <li>Reaseached Layer 2 and 3 protocols to become proficient at troubleshooting</li>
+  <li>Managed networks across the United States & Puerto Rico(Convention Center & Hotels main networks)</li>
+  <li>Added modules in PHP application to track customer payments and assign networks</li>
+  <li>Leveraged python to automate network task and alert on potential problems</li>
+  <li>Developed our own VPN device to allow engineers to be remote on internal networks</li>
+  <li>Responsibility of maintaining and managing VPN network (research in encryption)</li>
+  <li>Bringing new facilities backbone online with our equipment</li>
+  <li>Total Linux environment (maintenance/update/installs)</li>
+  <li>Building out routers and servers using different Linux distros (using Quagga & Zebra)</li>
+  <li>Researched linux internals for optimal performace on linux routers</li>
+  <li>Testing and Deploying new network equipment</li>
+</ul>
 <br>
 <br>
 <br>
