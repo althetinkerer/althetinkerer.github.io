@@ -59,7 +59,7 @@ title: A Career of Learning and Deploying!
   <li>Research linux protection (SELinux, GRSecurity)</li>
   <li>Developing and Deploying company website</li>
   <li>Migrated company from SVN to github for versioning</li>
-<ul>
+</ul>
 <br>
 <br>
 <br>
