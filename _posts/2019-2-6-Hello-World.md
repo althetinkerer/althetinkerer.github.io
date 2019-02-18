@@ -11,6 +11,7 @@ title: A Career of Learning and Deploying!
 <p>Working to provide blockchain solutions for companies. From the server to software development.  Concentrating on the software development for the last three years fully learning multiple programming languages. I see finding solutions for companies may include writing software on different platforms. Having a general overview of different programming languages, makes me efficient in finding solutions for companies. My early career included learning many different skills while finding a solution. (working on networks, servers, and software). Check out the about <a href="https://althetinkerer.github.io/about/">click here</a> for a list of my technical skills. Also, check out my repos for previous and current work.
 <ul>
   <li>Continued research on a new and emerging technology</li>
+  <li>Researching blockchaing frameworks: Ethereum, Ripple, Quorum, Hyperledger Sawtooth, Hyperledger Fabric, R3 Corda, EOS, Hyperledger Iroha, Openchain, Steller, NEO, Tronbox</li>
   <li>Developing a blockchain (proof of concept) platform for a supply chain and logistics</li>
   <li>Scraping and crawling websites to compare pricing from competitors(Amazon, Ebay, competitors websites)(Python)</li>
   <li>Harvesting data from competitors websites through API</li>
@@ -49,6 +50,7 @@ title: A Career of Learning and Deploying!
   <li>Support and QA testing for Researchers/Exploit Writers</li>
   <li>Architect, Design, and Deploy Training online training platform(scaling was important)</li>
   <li>Designing/Securing networks(voip) using VPN technology across multiple countries</li>
+  <li>Reversing, Exploit writing</li>
   <li>Building secure phone network</li>
   <li>QA testing for Main products</li>
   <li>Automating logging/processing of log data</li>
@@ -172,3 +174,10 @@ To summarize here are my real-world work experiences:<br>
 <ul>
   <li>Mathematics (1998)</li>
 <ul>
+
+-------------------------------------------------------------------------
+
+# Projects
+<h4>Blockchain</h4>
+Researching and deploying the top blockchain networks.<br>
+Tron<br>
