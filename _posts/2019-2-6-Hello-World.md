@@ -50,9 +50,9 @@ title: A Career of Learning and Deploying!
   <li>Support and QA testing for Researchers/Exploit Writers</li>
   <li>Architect, Design, and Deploy Training online training platform(scaling was important)</li>
   <li>Designing/Securing networks(voip) using VPN technology across multiple countries</li>
-  <li>Reversing, Exploit writing</li>
-  <li>Building secure phone network</li>
-  <li>QA testing for Main products</li>
+  <li>Reversing, Exploit writing for Windows</li>
+  <li>Building and deploying encrypted phone network</li>
+  <li>QA testing for Security products(in-house & competitors)</li>
   <li>Automating logging/processing of log data</li>
   <li>Building hardware devices to bypass networks for exploit gigs</li>
   <li>Detailed vulnerability report writing</li>
@@ -60,7 +60,7 @@ title: A Career of Learning and Deploying!
   <li>Teaching clients Exploiting techniques</li>
   <li>Running Exploit Demos</li>
   <li>Research and test Linux Internals for maximum security</li>
-  <li>Research linux protection (SELinux, GRSecurity)</li>
+  <li>Research and deploy linux protection (SELinux, GRSecurity)</li>
   <li>Developing and Deploying company website</li>
   <li>Migrated company from SVN to github for versioning</li>
 </ul>
