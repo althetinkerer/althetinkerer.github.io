@@ -57,6 +57,8 @@ title: A Career of Learning and Deploying!
   <li>Building hardware devices to bypass networks for exploit gigs</li>
   <li>Detailed vulnerability report writing</li>
   <li>Testing and research encryption for vulnerabilities</li>
+  <li>Teaching clients Exploiting techniques</li>
+  <li>Running Exploit Demos</li>
   <li>Research and test Linux Internals for maximum security</li>
   <li>Research linux protection (SELinux, GRSecurity)</li>
   <li>Developing and Deploying company website</li>
