@@ -40,33 +40,7 @@ title: A Career of Learning and Deploying!
 <h4>Director of IT Operations</h4>
 <p>Immunity, Inc</p>
 <p>2009 - 2016</p>  
-<p>This is another one of the "best" jobs on my list. I learned to excel at security in this role. This was a Linux shop with some Mac machines floating around. This another smaller shop that specializes in "Offensive Security". So, there was plenty of opportunities to work on offensive security, while my department was the "defensive" part of the company. Most companies concentrate what they specialize in and because we were dealing with security. We only had a small list of trusted vendors, so basically everything had to be done in-house. This means you have to have someone who can perform those "in-house" IT duties. One of the perks of working with an offensive security company is you get to demo things against your network. I also demo's software for our customers. I was able to be opened up to some exploit work, malware analysis, social engineering, windows exploitation, and wireless exploitation. This allowed me to get a better grasp providing security to hardware, networks(mobile, phone, routing), programming techniques(scripting, application and web), and applications. The skills here not only allowed me to improve my "defensive", it also gave me a set of "offensive" skills I use today.</p>
-<ul>
-  <li>Research and deploy best encryption for company protection</li>
-  <li>Manage Datacenter network
-  <li>Manage multiple in-house github repos for different github projects</li>
-  <li>Maintain all users on linux environment</li>
-  <li>Maintain servers requiring different levels of access (Government/Non-Government)</li>
-  <li>Malware analysis using open source and in-house tools(cuckoo)</li>
-  <li>Support and QA testing for Researchers/Exploit Writers</li>
-  <li>Architect, Design, and Deploy Training online training platform(scaling was important)</li>
-  <li>Designing/Securing networks(voip) using VPN technology across multiple countries</li>
-  <li>Reversing, Exploit writing for Windows</li>
-  <li>Building and deploying encrypted phone network</li>
-  <li>QA testing for Security products(in-house & competitors)</li>
-  <li>Automating logging/processing of log data</li>
-  <li>Building hardware devices to bypass networks for exploit gigs</li>
-  <li>Detailed vulnerability report writing</li>
-  <li>Testing and research encryption for vulnerabilities</li>
-  <li>Teaching clients Exploiting techniques</li>
-  <li>Running Exploit Demos</li>
-  <li>Research and test Linux Internals for maximum security</li>
-  <li>Research and deploy linux protection (SELinux, GRSecurity)</li>
-  <li>Developing and Deploying company website</li>
-  <li>Migrated company from SVN to github for versioning</li>
-  <li>Architect and build hardware for running C & C, training, Security, & Exploitation</li>
-  <li>Building GPU & FPGA machines for password cracking</li> 
-</ul>
+<p>Leading infrasturcture, information security, and IT, along with Malware analysis and QA for Malware testing products and wireless intrusion products. Scaling online training course for cybersecurity training course. Main focus on security, data compliance, core architecture and testing. Mitigating hundred's of attacks a month keeping information secure. Researching and updating systems for the latest security standards.</p>
 <br>
 <br>
 <br>
