@@ -1,10 +1,20 @@
 ---
 layout: post
-title: A Career of Learning and Deploying!
+title: A Career of Learning and Deploying Impact!
 ---
 
 -----------------------------------------------------------------
 <h3>Career</h3>
+<br>
+<h4>Chief Development Officer</h4>
+<h4>JackieOTS.com</h4>
+<p>2020 - Present</p>
+<p>Working to provide gaming solution for kids with Autism during the COVID-19 crisis(MIT project that ended up turning into a company). These games with help Autistic children cope with the changes and irregular day-to-day activities. Currently managing and developing along with a team of developer on Unity platform. Check out the about <a href="https://althetinkerer.github.io/about/">click here</a> for a list of my technical skills. Also, check out my repos for previous and current work.
+<ul>
+  
+</ul>
+<br>
+<br>
 <br>
 <h4>Data Mining/Block Chain Researcher/Developer</h4>
 <p>2018 - Present</p>
@@ -22,8 +32,8 @@ title: A Career of Learning and Deploying!
 <br>
 <br>
 <br>
-<h4>Data Analysis/Machine Learning/Computer Vision Researcher for Youth Sports(Tackle Football)</h4>
-<p>Palmetto Bay Broncos</p>
+<h4>Data Analysis/Machine Learning/Computer Vision Researcher for Youth Concussions(Tackle Football)</h4>
+<p>University of Miami</p>
 <p>March 2016 - November 2016</p>  
 <p>Formed the hypothesis "If we take a team where a majority of kids have never played can we win?" The first you have to do with any organization is take a look at the numbers in the industry. What makes you successful, where are you weak, where are you strong. Taking that data on each player and assigning a position based on physical and mental attributes. I know it seems a bit much to put so much work into a "volunteer" position. It was important to show parents and athletes how technology plays a role</p> 
 <ul>
